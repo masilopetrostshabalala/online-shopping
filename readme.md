@@ -7,3 +7,7 @@
 ## Test 3
 ## Test 4
 ## Installation manual attached. System requirement 16 G and 8 G RAM
+
+## New item  1 to be added
+## New item  2 to be added
+## New item  3 to be added
